@@ -1,4 +1,4 @@
-package mukunda;
+package irfan;
 
 public class Student {
 	String Name;
